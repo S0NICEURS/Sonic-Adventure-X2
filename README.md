@@ -1,1 +1,1 @@
-# sonic-adventure-x2
+# Sonic Adventure X2
